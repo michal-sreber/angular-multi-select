@@ -63,6 +63,9 @@
     background-clip: padding-box; 
     padding: 15px;
     min-width:270px;
+    max-height: 500px;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
 
 .multiSelect .caret {
